@@ -1,2 +1,2 @@
-# Notebook-sympfony
+# Notebook-symfony
 Projet de consolidation de symfony 
